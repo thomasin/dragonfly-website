@@ -13,35 +13,18 @@ Canterbury, where he studied photochemistry in small droplets of liquid.
 
 <!--more-->
 
-Christopher gained a PhD in physical chemistry from the University of
-Canterbury and completed two post-docs at the University of California Irvine.
+Christopher has a passion for improving the collection, analysis and visualisation of data through database design, websites and applications. 
 
-Although he first dabbled in visualisation during his PhD, it was a chance
-meeting with a group at Irvine that enabled him to enter the field. The group
-were exploring large scale visualisation but were short of a physical
-scientist.
+He sees visualisation as a useful addition to the data analysis toolkit that Dragonfly Science already offers.
 
-“It was a great opportunity, so I stayed on and did a second post-doc. That led
-me to a software engineering job with
-[NVIDIA](http://www.nvidia.com/content/global/global.php) in Finland, where I
-worked in their mobile business unit on software for the early Tegra chips.
+“You can use visualisation to play with data and easily see ideas and patterns. To put that sort of flexibility in the hands of the public is exciting - they start to see that data can tell a story and relate it to their own life."
 
-Moving to Saudi Arabia, Christopher took up a position using visualisation to
-support research scientists at the [King Abdullah University of Science and
-Technology](http://www.kaust.edu.sa/). These included chemists who were enabled
-to virtually stand inside the molecules they were studying, and biologists with
-vast data sets who could view them all on a screen rather than taping sheets of
-paper together.
+He recently developed an interactive application for the Ministry of Business, Innovation and Employment. Based on the Regional Economic Activity Report, it allows users to find information on 66 sub-regional areas across New Zealand and encourages them to interact with the data at a greater level of detail. 
 
-Christopher sees visualisation as a useful addition to the data analysis
-toolkit that Dragonfly Science already offers to clients.
+Christopher is also a specialist in dealing with data collected in the field and is currently working with the Paua Industry Council to improve how changes in the marine environment are detected.
 
-“You can use visualisation to play with your data and come up with ideas and
-patterns, and very quickly get rid of what you’re not interested in. To put
-that sort of flexibility in the hands of your user is exciting - they’re not
-stuck with what you thought was a nice view of the data.
+It can take up to three years for fishery managers to become aware of changed in the productivity of a region. By recording the position of boats alongside the time spent underwater by divers, Dragonfly can determine whether or not an area is productive within a matter of hours. 
 
-“Of course then you have to check it will hold up under analysis, but to be
-able to offer visualisation alongside rigorous analysis in the same company is
-very powerful.”
+"If the divers spend too long looking for paua, there’s not enough there. We’re gathering enough data to make definite assertions when determining abundance, but need to eliminate factors such as the murkiness water and weather."
 
+Christopher is also the co-founder of iDive and helped to develop the world’s first functional touchscreen housings for using iPads underwater. 
