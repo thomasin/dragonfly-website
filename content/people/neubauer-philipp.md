@@ -8,7 +8,22 @@ tag: philipp
 banner: neubauer-philipp/philipp-neubauer-letterbox.jpg
 ---
 
+<<<<<<< HEAD
 Philipp was born and grew up in Germany but his fascination with biology began during a year-long high school exchange in the US. He moved to France to study marine ecology and obtained his Masters in 2007, using spatial models to quantify the effects of marine reserves on artisan fisheries at the [Université
+=======
+Philipp studied marine ecology at the [Université de la
+Méditerranée](http://www.imbe.fr/?lang=fr) in France and obtained a Masters
+in ecological modelling, quantifying the benefits of marine reserves to
+local fisheries.
+
+<!--more-->
+
+
+Philipp was born and grew up in Germany but his fascination with biology began
+during a year-long high school exchange in the US. He moved to France to study
+marine ecology and obtained his Masters in 2007, using spatial models to
+quantify the effects of marine reserves on artisan fisheries at the [Université
+>>>>>>> master
 de la Méditerranée](http://www.imbe.fr/?lang=fr) in Marseille. 
 
 A desire to continue researching in the field of quantitative ecology saw him move to New Zealand for a PhD at [Victoria
