@@ -3,6 +3,7 @@ email: edward@dragonfly.co.nz
 firstname: Edward
 lastname: Abraham
 phone: +64 (0) 21 989 454
+twitter: @tippy_top
 tag: edward
 title: Edward Abraham
 banner: abraham-edward/edward-abraham-letterbox.jpg
